@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # about_me
 
 # Introduction to Programming Exercise - About Me
